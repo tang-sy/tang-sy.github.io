@@ -1,90 +1,88 @@
 ---
 # Display name
-title: 吳健雄
+title: 唐仕颖
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Tong Si Wing 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ali
+last_name: Tang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤝
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Bioinformatics Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Chinese University of Hong Kong, MSc in Genomics and Bioinformatics Program.
+    url: https://www.cuhk.edu.hk/english/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Single cell sequencing
+  - Multi-omics analysis
+  - AI model development
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Msc in Genomics and Bioinformatics
+      institution: The Chinese University of Hong Kong
+      year: 2024
+    - course: BSc in Biology Science
+      institution: Xiamen University
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming and Data Analysis
     items:
       - name: Python
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+      - name: R
         description: ''
         percent: 40
+        icon: chart-line
+        icon_pack: fas
+      - name: Bash/Shell
+        description: ''
+        percent: 30
+        icon: chart-line
+        icon_pack: fas
+      - name: Machine Learning
+        description: ''
+        percent: 60
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Communication and Writing
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Presentation
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 90
+        icon: chat-bubble-bottom-center-text
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Story Writing
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: cat
+        icon_pack: language
+        
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,21 +92,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: weixin://dl/chat?Sovianna
+    label: Add me on WeChat
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/tang-sy
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/tang-sy
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
